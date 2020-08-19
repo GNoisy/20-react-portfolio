@@ -3,6 +3,7 @@ import Jumbotron from 'react-bootstrap/Jumbotron';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import Card from 'react-bootstrap/Card'
 import Image from 'react-bootstrap/Image'
 import "./style.css";
 
@@ -17,12 +18,22 @@ function Hero() {
                     </Col>
                     <Col md={3}></Col>
                 </Row>
+
+                <Row>
+                <Col md={3}></Col>
+                <Col md={6}>
+                    <p className="text-center pt-0" id="sub-head">
+                    Full Stack Web Developer
+                    </p>
+                    
+                              
+                </Col>
+                <Col md={3}></Col>
+
+                </Row>
                 
                 
-                <p>
-                This is a modified jumbotron that occupies the entire horizontal space of
-                its parent.
-                </p>
+                
             </Container>
             {/* <img src="./background-02.jpg"></img> */}
             {/* <Image src="./background-02.jpg" fluid  /> */}
