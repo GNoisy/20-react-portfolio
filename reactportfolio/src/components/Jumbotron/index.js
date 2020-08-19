@@ -3,8 +3,8 @@ import Jumbotron from 'react-bootstrap/Jumbotron';
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
-import Card from 'react-bootstrap/Card'
-import Image from 'react-bootstrap/Image'
+// import Card from 'react-bootstrap/Card'
+// import Image from 'react-bootstrap/Image'
 import "./style.css";
 
 function Hero() {
@@ -14,7 +14,7 @@ function Hero() {
                 <Row>
                     <Col md={3}></Col>
                     <Col md={6}>
-                        <h1 className="text-center" id="my-name">Hello, I'm Gio</h1>
+                        <h1 className="text-center mt-5" id="my-name">Hello, I'm Gio</h1>
                     </Col>
                     <Col md={3}></Col>
                 </Row>

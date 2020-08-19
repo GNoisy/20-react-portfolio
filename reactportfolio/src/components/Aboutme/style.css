@@ -1,0 +1,17 @@
+#about-me {
+    font-size: 10rem;
+    font-weight: 500;
+    font-family: 'Archivo Black', sans-serif;
+    letter-spacing: -10px;
+    line-height: 135px;
+}
+
+.bio:first-child:first-letter {
+    float: left;
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 90px;
+    line-height: 60px;
+    padding-top: 4px;
+    padding-right: 8px;
+    padding-left: 3px;
+  }
