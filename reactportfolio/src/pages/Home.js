@@ -30,14 +30,13 @@ function Home() {
                             <Card.Img className="border-bottom" variant="top" src="./img01.png" />
                             <Card.Body>
                                 <Card.Title className="text-center">Password Generator</Card.Title>
-                                <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                                <Card.Text className="text-center">
+                                This application is built using Javascript, HTML and CSS.
                                 </Card.Text>
                             </Card.Body>
                             <Card.Body className="mx-auto">
-                                <Card.Link href="#">Card Link</Card.Link>
-                                <Card.Link href="#">Another Link</Card.Link>
+                                <Card.Link href="https://github.com/GNoisy/03-password-generator">Github</Card.Link>
+                                <Card.Link href="https://gnoisy.github.io/03-password-generator/">Deployed Site</Card.Link>
                             </Card.Body>
                         </Card>
                     </Col>
@@ -47,14 +46,13 @@ function Home() {
                             <Card.Img className="border-bottom" variant="top" src="./img02.png" />
                             <Card.Body>
                                 <Card.Title className="text-center">Scheduler</Card.Title>
-                                <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                                <Card.Text className="text-center">
+                                This application is built using Javascript, Moment.js and JQuery.
                                 </Card.Text>
                             </Card.Body>
                             <Card.Body className="mx-auto">
-                                <Card.Link href="#">Card Link</Card.Link>
-                                <Card.Link href="#">Another Link</Card.Link>
+                                <Card.Link href="https://github.com/GNoisy/05-work-day-scheduler">Github</Card.Link>
+                                <Card.Link href="https://gnoisy.github.io/05-work-day-scheduler/">Deployed Site</Card.Link>
                             </Card.Body>
                         </Card>
                     </Col>
@@ -64,14 +62,13 @@ function Home() {
                             <Card.Img className="border-bottom" variant="top" src="./img03.png" />
                             <Card.Body>
                                 <Card.Title className="text-center">Weather Forecast</Card.Title>
-                                <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                                <Card.Text className="text-center">
+                                This application is built using OpenWeather API and Javascript.
                                 </Card.Text>
                             </Card.Body>
                             <Card.Body className="mx-auto">
-                                <Card.Link href="#">Card Link</Card.Link>
-                                <Card.Link href="#">Another Link</Card.Link>
+                                <Card.Link href="https://github.com/GNoisy/06-weather-dashboard">Github</Card.Link>
+                                <Card.Link href="https://gnoisy.github.io/06-weather-dashboard/">Deployed Site</Card.Link>
                             </Card.Body>
                         </Card>
                     </Col>
@@ -83,14 +80,13 @@ function Home() {
                             <Card.Img className="border-bottom" variant="top" src="./img04.png" />
                             <Card.Body>
                                 <Card.Title className="text-center">Note Taker</Card.Title>
-                                <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                                <Card.Text className="text-center">
+                                This application is built using Node.js and Express.
                                 </Card.Text>
                             </Card.Body>
                             <Card.Body className="mx-auto">
-                                <Card.Link href="#">Card Link</Card.Link>
-                                <Card.Link href="#">Another Link</Card.Link>
+                                <Card.Link href="https://github.com/GNoisy/11-note-taker">Github</Card.Link>
+                                <Card.Link href="https://infinite-depths-00124.herokuapp.com/">Deployed Site</Card.Link>
                             </Card.Body>
                         </Card>
                     </Col>
@@ -100,14 +96,13 @@ function Home() {
                             <Card.Img className="border-bottom" variant="top" src="./img05.png" />
                             <Card.Body>
                                 <Card.Title className="text-center">Shoppinator</Card.Title>
-                                <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                                <Card.Text className="text-center">
+                                This application is built using RapidAPI, Axios and Semantic UI.
                                 </Card.Text>
                             </Card.Body>
                             <Card.Body className="mx-auto">
-                                <Card.Link href="#">Card Link</Card.Link>
-                                <Card.Link href="#">Another Link</Card.Link>
+                                <Card.Link href="https://github.com/GNoisy/Shoppinator">Github</Card.Link>
+                                <Card.Link href="https://shambhawi13.github.io/Shoppinator/">Deployed Site</Card.Link>
                             </Card.Body>
                         </Card>
                     </Col>
@@ -117,14 +112,13 @@ function Home() {
                             <Card.Img className="border-bottom" variant="top" src="./img06.png" />
                             <Card.Body>
                                 <Card.Title className="text-center">Budget Buddy</Card.Title>
-                                <Card.Text>
-                                Some quick example text to build on the card title and make up the bulk of
-                                the card's content.
+                                <Card.Text className="text-center">
+                                This application is built using Handlebars, Sequelize and Firebase.
                                 </Card.Text>
                             </Card.Body>
                             <Card.Body className="mx-auto">
-                                <Card.Link href="#">Card Link</Card.Link>
-                                <Card.Link href="#">Another Link</Card.Link>
+                                <Card.Link href="https://github.com/GNoisy/budget-buddy">Github</Card.Link>
+                                <Card.Link href="https://agile-retreat-52176.herokuapp.com/">Deployed Site</Card.Link>
                             </Card.Body>
                         </Card>
                     </Col>
