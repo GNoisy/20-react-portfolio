@@ -6,7 +6,7 @@ This project required using React to build a mobile responsive portfolio.
 
 ## Deployed Link
 
-* [See Live Site]()
+* [See Live Site](https://gnoisy.github.io/20-react-portfolio/)
 
 ## Prerequisites
 
