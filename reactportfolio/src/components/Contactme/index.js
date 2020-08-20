@@ -5,7 +5,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import "./style.css";
 import { IconContext } from 'react-icons';
-import { FaGithub, FaLinkedin, FaEnvelope, FaPhone } from 'react-icons/fa';
+import { FaGithub, FaLinkedin, } from 'react-icons/fa';
 
 
 
@@ -15,7 +15,7 @@ import { FaGithub, FaLinkedin, FaEnvelope, FaPhone } from 'react-icons/fa';
 function Contactme() {
 
     return(
-        <IconContext.Provider value={{ size: "3em"}}>
+        <IconContext.Provider value={{ size: "3em" }}>
         <div>
             <Jumbotron fluid className="bg-white">
             <Container>
@@ -47,7 +47,7 @@ function Contactme() {
                         </div> */}
 
                         <p id="email" className="text-center mb-0">email: GNOISY77@GMAIL</p> <p id="cel" className="text-center">cel: 714-376-1466</p>
-                        <p className="text-center"><FaGithub className="mx-auto d-inline"/><FaLinkedin className="mx-auto d-inline"/></p>
+                        <p className="text-center"><a href="https://github.com/GNoisy"><FaGithub className="mx-auto d-inline"/></a><a href="https://www.linkedin.com/in/giovanni-noisy-04098989/"><FaLinkedin className="mx-auto d-inline"/></a></p>
                         
                         
                                 
