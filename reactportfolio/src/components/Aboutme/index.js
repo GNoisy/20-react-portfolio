@@ -27,7 +27,7 @@ function Aboutme() {
                         {/* <p className="text-center pt-0" id="sub-head">
                         Full Stack Web Developer
                         </p> */}
-                        <Image src="./me.jpeg" roundedCircle className="mx-auto d-block py-3"/>
+                        <Image src={require("../../images/me.jpeg")} roundedCircle className="mx-auto d-block py-3"/>
                         
                                 
                     </Col>

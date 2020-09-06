@@ -27,7 +27,7 @@ function Home() {
                 <Row >
                     <Col md={4} sm={12}>
                         <Card className="shadow-lg p-3 mb-5 border-0 rounded-0">
-                            <Card.Img className="border-bottom" variant="top" src="./img01.png" />
+                            <Card.Img className="border-bottom" variant="top" src={require("../images/img01.png")} />
                             <Card.Body>
                                 <Card.Title className="text-center">Password Generator</Card.Title>
                                 <Card.Text className="text-center">
@@ -43,7 +43,7 @@ function Home() {
 
                     <Col md={4} sm={12}>
                         <Card className="shadow-lg p-3 mb-5 border-0 rounded-0">
-                            <Card.Img className="border-bottom" variant="top" src="./img02.png" />
+                            <Card.Img className="border-bottom" variant="top" src={require("../images/img02.png")} />
                             <Card.Body>
                                 <Card.Title className="text-center">Scheduler</Card.Title>
                                 <Card.Text className="text-center">
@@ -59,7 +59,7 @@ function Home() {
 
                     <Col md={4} sm={12}>
                         <Card className="shadow-lg p-3 mb-5 border-0 rounded-0">
-                            <Card.Img className="border-bottom" variant="top" src="./img03.png" />
+                            <Card.Img className="border-bottom" variant="top" src={require("../images/img03.png")} />
                             <Card.Body>
                                 <Card.Title className="text-center">Weather Forecast</Card.Title>
                                 <Card.Text className="text-center">
@@ -77,7 +77,7 @@ function Home() {
                 <Row >
                     <Col md={4} sm={12}>
                         <Card className="shadow-lg p-3 mb-5 border-0 rounded-0">
-                            <Card.Img className="border-bottom" variant="top" src="./img04.png" />
+                            <Card.Img className="border-bottom" variant="top" src={require("../images/img04.png")} />
                             <Card.Body>
                                 <Card.Title className="text-center">Note Taker</Card.Title>
                                 <Card.Text className="text-center">
@@ -93,7 +93,7 @@ function Home() {
 
                     <Col md={4} sm={12}>
                         <Card className="shadow-lg p-3 mb-5 border-0 rounded-0">
-                            <Card.Img className="border-bottom" variant="top" src="./img05.png" />
+                            <Card.Img className="border-bottom" variant="top" src={require("../images/img05.png")} />
                             <Card.Body>
                                 <Card.Title className="text-center">Shoppinator</Card.Title>
                                 <Card.Text className="text-center">
@@ -109,7 +109,7 @@ function Home() {
 
                     <Col md={4} sm={12}>
                         <Card className="shadow-lg p-3 mb-5 border-0 rounded-0">
-                            <Card.Img className="border-bottom" variant="top" src="./img06.png" />
+                            <Card.Img className="border-bottom" variant="top" src={require("../images/img06.png")} />
                             <Card.Body>
                                 <Card.Title className="text-center">Budget Buddy</Card.Title>
                                 <Card.Text className="text-center">
